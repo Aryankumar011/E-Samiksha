@@ -1,0 +1,51 @@
+﻿UID+A1:K42 No,School Id  ,School Type,District,Religion,Cast,Gender,Ac Year,Cr Year,Standard,Student Status
+10000001,20190403820,Government ,Anand   ,Hindu   ,OBC,Male  ,2021,2023,9,Dropout
+10000002,20190403820,Government ,Anand   ,Hindu   ,OPEN,Female,2021,2023,9,Dropout
+10000003,20190403820,Government ,Anand   ,Hindu   ,OBC,Male  ,2021,2023,9,Dropout
+10000004,20190403820,Government ,Anand   ,Muslim,OPEN,Male  ,2021,2023,10,Passout
+10000005,20190403820,Government ,Anand   ,Muslim,OPEN,Male  ,2021,2023,12,Passout
+10000006,20190403820,Government ,Anand   ,Hindu   ,OPEN,Male  ,2021,2023,11,Passout
+10000007,20190403820,Government ,Anand   ,Hindu   ,OPEN,Male  ,2021,2023,12,Passout
+10000008,20190403820,Government ,Anand   ,Hindu   ,OPEN,Male  ,2021,2023,10,Passout
+10000009,20190403820,Government ,Anand   ,Muslim,OPEN,Male  ,2021,2023,10,Passout
+10000010,20190403820,Government ,Anand   ,Muslim,OPEN,Female,2021,2023,10,Passout
+10000011,15190403821,Private,Bharuch,Hindu   ,OPEN,Female,2021,2023,12,Passout
+10000012,15190403821,Private,Bharuch,Hindu   ,OBC,Male  ,2021,2023,10,Passout
+10000013,15190403821,Private,Bharuch,Hindu   ,OPEN,Male  ,2021,2023,10,Passout
+10000014,15190403821,Private,Bharuch,Muslim,OPEN,Male  ,2021,2023,10,Passout
+10000015,15190403821,Private,Bharuch,Muslim,OPEN,Male  ,2021,2023,10,Dropout
+10000016,15190403821,Private,Bharuch,Hindu   ,OPEN,Male  ,2021,2023,10,Dropout
+10000017,15190403821,Private,Bharuch,Hindu   ,OBC,Male  ,2021,2023,12,Dropout
+10000018,15190403821,Private,Bharuch,Hindu   ,OPEN,Male  ,2021,2023,9,Dropout
+10000019,15190403821,Private,Bharuch,Hindu   ,OPEN,Male  ,2021,2023,9,Passout
+10000020,15190403821,Private,Bharuch,Hindu   ,SC,Female,2021,2023,9,Passout
+10000021,15190403821,Private,Bharuch,Hindu   ,OPEN,Male  ,2021,2023,10,Passout
+10000022,15190403821,Private,Bharuch,Hindu   ,OPEN,Female,2021,2023,10,Passout
+10000023,15190403821,Private,Bharuch,Hindu   ,OPEN,Male  ,2021,2023,10,Passout
+10000024,15190403821,Private,Bharuch,Hindu   ,OPEN,Female,2021,2023,9,Passout
+10000025,15190403821,Private,Bharuch,Hindu   ,OPEN,Male  ,2021,2023,10,Passout
+10000026,15190403821,Private,Bharuch,Hindu   ,OPEN,Female,2021,2023,11,Passout
+10000027,15190403821,Private,Bharuch,Hindu   ,OPEN,Male  ,2021,2023,12,Passout
+10000028,15190403821,Private,Bharuch,Hindu   ,OPEN,Male  ,2021,2023,10,Passout
+10000029,15190403821,Private,Bharuch,Muslim,OPEN,Female,2021,2023,11,Dropout
+10000030,15190403821,Private,Bharuch,Muslim,OPEN,Male  ,2021,2023,12,Passout
+10000031,15190403821,Private,Bharuch,Muslim,OPEN,Female,2021,2023,10,Passout
+10000032,12190403820,Government ,Rajkot,Muslim,OPEN,Female,2021,2023,11,Passout
+10000033,12190403820,Government ,Rajkot,Muslim,OPEN,Male  ,2021,2023,12,Passout
+10000034,12190403820,Government ,Rajkot,Hindu,OPEN,Male  ,2021,2023,10,Passout
+10000035,12190403820,Government ,Rajkot,Hindu   ,SC,Male  ,2021,2023,12,Dropout
+10000036,12190403820,Government ,Rajkot,Hindu   ,SC,Male  ,2021,2023,12,Dropout
+10000037,12190403820,Government ,Rajkot,Hindu   ,ST,Male  ,2021,2023,12,Dropout
+10000038,12190403820,Government ,Rajkot,Hindu   ,OBC,Male  ,2021,2023,12,Dropout
+10000039,12190403820,Government ,Rajkot,Muslim,OBC,Male  ,2021,2023,10,Passout
+10000040,12190403820,Government ,Rajkot,Muslim,OBC,Male  ,2021,2023,10,Passout
+10000041,12190403820,Government ,Rajkot,Muslim,OBC,Male  ,2021,2023,10,Passout
+10000042,12190403820,Government ,Rajkot,Muslim,OBC,Male  ,2021,2023,10,Passout
+10000043,12190403820,Government ,Rajkot,Muslim,ST,Male  ,2021,2023,10,Passout
+10000044,12190403820,Government ,Rajkot,Hindu,OPEN,Male  ,2021,2023,10,Passout
+10000045,12190403820,Government ,Rajkot,Hindu   ,OPEN,Male  ,2021,2023,10,Passout
+10000046,12190403820,Government ,Rajkot,Hindu   ,OPEN,Male  ,2021,2023,10,Dropout
+10000047,12190403820,Government ,Rajkot,Hindu   ,OPEN,Male  ,2021,2023,12,Dropout
+10000048,12190403820,Government ,Rajkot,Hindu   ,OPEN,Male  ,2021,2023,12,Dropout
+10000049,12190403820,Government ,Rajkot,Muslim,OPEN,Male  ,2021,2023,12,Passout
+10000050,12190403820,Government ,Rajkot,Muslim,OPEN,Male  ,2021,2023,12,Passout
