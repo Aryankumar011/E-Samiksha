@@ -51,9 +51,9 @@ I'm Aryan Panchal 3rd Year Student At Government Engineering College Patan.
 
 ## Screenshots
 
-![App Screenshot1](https://github.com/Aryankumar011/E-Samiksha/blob/main/ScreenShorts/Screenshot%202023-12-28%20101137.png)
-![App Screenshot2](https://github.com/Aryankumar011/E-Samiksha/blob/main/ScreenShorts/Screenshot%202023-12-28%20101221.png)
-![App Screenshot3](https://github.com/Aryankumar011/E-Samiksha/blob/main/ScreenShorts/Screenshot%202023-12-28%20101302.png)
+![App Screenshot1](https://github.com/Aryankumar011/E-Samiksha/blob/main/ScreenShorts/1.png)
+![App Screenshot2](https://github.com/Aryankumar011/E-Samiksha/blob/main/ScreenShorts/2.png)
+![App Screenshot3](https://github.com/Aryankumar011/E-Samiksha/blob/main/ScreenShorts3.png)
 
 
 
